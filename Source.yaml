@@ -17,6 +17,8 @@ platforms:
   - github.blog
   - api.github.com
   - raw.githubusercontent.com
+  - archiveprogram.github.com
+  - assets-cdn.github.com
   - user-images.githubusercontent.com
   - favicons.githubusercontent.com
   - avatars5.githubusercontent.com
@@ -87,4 +89,29 @@ platforms:
   - pl.ea.com
   - media.contentapi.ea.com
   - nds-network-nav.ea.com
+- - gitlab
+  - gitlab.com
+  - www.gitlab.com
+  - page.gitlab.com
+  - packages.gitlab.com
+  - support.gitlab.com
+  - customers.gitlab.com
+  - staging.gitlab.com
+  - federal-support.gitlab.com
+  - registry.gitlab.com
+  - evelup.gitlab.com
+  - chef.gitlab.com
+- - debian
+  - deb.debian.org
+- - iwara
+  - iwara.tv
+  - i.iwara.tv
+  - www.iwara.tv
+  - hime.iwara.tv
+  - aku.iwara.tv
+  - sukone.iwara.tv
+  - xin.iwara.tv
+  - uta.iwara.tv
+  - mikoto.iwara.tv
+  - miki.iwara.tv
   
