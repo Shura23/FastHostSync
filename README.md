@@ -17,7 +17,7 @@ win + R 后执行 `shell:startup`
 ### 配置SwitchHosts实现自动更新  
 可选的URL有:
 如果访问不到GitHub可以尝试将`github.com`替换为`hub.fastgit.xyz`(国内镜像)
-1. ALL: `https://raw.githubusercontent.com/xiulou23/FastHostSync/main/Hosts`  
+1. ALL: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts`  
 2. Steam: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_steam`  
 3. github: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_github`    
 `镜像地址:`
@@ -38,42 +38,42 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.112.26			alive.github.com
-140.82.113.25			live.github.com
+140.82.112.25			alive.github.com
+140.82.114.26			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.112.22			central.github.com
+140.82.113.21			central.github.com
 185.199.109.133			desktop.githubusercontent.com
-185.199.108.153			assets-cdn.github.com
-185.199.109.133			camo.githubusercontent.com
-185.199.108.133			github.map.fastly.net
-151.101.65.194			github.global.ssl.fastly.net
-140.82.114.3			gist.github.com
-185.199.111.153			github.io
-140.82.112.3			github.com
+185.199.109.153			assets-cdn.github.com
+185.199.111.133			camo.githubusercontent.com
+185.199.110.133			github.map.fastly.net
+151.101.1.194			github.global.ssl.fastly.net
+140.82.112.3			gist.github.com
+185.199.110.153			github.io
+140.82.114.4			github.com
 192.0.66.2			github.blog
-140.82.114.6			api.github.com
-185.199.111.133			raw.githubusercontent.com
-185.199.109.133			user-images.githubusercontent.com
+140.82.114.5			api.github.com
+185.199.108.133			raw.githubusercontent.com
+185.199.111.133			user-images.githubusercontent.com
 185.199.109.133			favicons.githubusercontent.com
-185.199.109.133			avatars5.githubusercontent.com
-185.199.108.133			avatars4.githubusercontent.com
-185.199.109.133			avatars3.githubusercontent.com
+185.199.111.133			avatars5.githubusercontent.com
+185.199.109.133			avatars4.githubusercontent.com
+185.199.111.133			avatars3.githubusercontent.com
 185.199.109.133			avatars2.githubusercontent.com
-185.199.110.133			avatars1.githubusercontent.com
-185.199.108.133			avatars0.githubusercontent.com
-185.199.108.133			avatars.githubusercontent.com
+185.199.108.133			avatars1.githubusercontent.com
+185.199.111.133			avatars0.githubusercontent.com
+185.199.111.133			avatars.githubusercontent.com
 140.82.113.9			codeload.github.com
-52.216.107.44			github-cloud.s3.amazonaws.com
-52.217.140.233			github-com.s3.amazonaws.com
-16.182.69.1			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.142.25			github-production-user-asset-6210df.s3.amazonaws.com
-16.182.69.1			github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.42.25			github-cloud.s3.amazonaws.com
+3.5.27.153			github-com.s3.amazonaws.com
+52.217.163.153			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.29.202			github-production-user-asset-6210df.s3.amazonaws.com
+3.5.27.170			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.111.153			githubstatus.com
-140.82.113.18			github.community
+140.82.114.18			github.community
 52.224.38.193			github.dev
-185.199.111.133			media.githubusercontent.com
+185.199.108.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-09-10 16:49:42 
+# Last Update Time : 2024-09-10 16:52:50 
 
 #steam Start
 23.47.27.74			steamcommunity.com
@@ -81,56 +81,56 @@ win + R 后执行 `shell:startup`
 23.50.124.114			store.steampowered.com
 23.47.27.74			api.steampowered.com
 23.47.27.74			help.steampowered.com
-23.53.11.214			store.akamai.steamstatic.com
+23.218.218.135			store.akamai.steamstatic.com
 23.215.0.136			steamcdn-a.akamaihd.net
-23.53.11.215			cdn.akamai.steamstatic.com
+23.218.218.153			cdn.akamai.steamstatic.com
 104.94.121.98			steam-chat.com
-23.53.11.212			community.akamai.steamstatic.com
+23.218.218.137			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Ubisoft_download Start
 23.62.160.240			static3.cdn.Ubi.com
 23.62.165.107			static2.cdn.Ubi.com
-84.53.139.65			static1.cdn.Ubi.com
+2.16.40.64			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #docker Start
 141.193.213.20			docker.com
-44.193.181.103			hub.docker.com
+3.224.227.198			hub.docker.com
 18.160.10.89			docs.docker.com
-104.19.168.24			login.docker.com
-54.196.99.49			registry.hub.docker.com
-44.193.181.103			docker.io
-3.219.239.5			registry-1.docker.io
-3.219.239.5			index.docker.io
+104.19.167.24			login.docker.com
+3.219.239.5			registry.hub.docker.com
+44.219.3.189			docker.io
+54.196.99.49			registry-1.docker.io
+54.196.99.49			index.docker.io
 #docker End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Brave browser Start
 3.167.56.82			brave.com
-151.101.1.32			laptop-updates.brave.com
+151.101.65.32			laptop-updates.brave.com
 #Brave browser End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Tor browser Start
 116.202.120.166			www.torproject.org
 204.8.99.144			community.torproject.org
-95.216.163.36			blog.torproject.org
+204.8.99.146			blog.torproject.org
 #Tor browser End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Tails OS Start
-94.142.244.34			tails.net
+204.13.164.63			tails.net
 204.13.164.63			download.tails.net
 #Tails OS End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
 172.67.153.195			0ms.dev
-45.90.30.0			anycast.dns.nextdns.io
+45.90.28.0			anycast.dns.nextdns.io
 104.16.132.229			dns.cloudflare.com
 146.112.41.2			doh.opendns.com
 158.64.1.29			kaitain.restena.lu
@@ -138,13 +138,13 @@ win + R 后执行 `shell:startup`
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #EA Start
 23.39.184.174			www.ea.com
 23.218.216.141			origin-a.akamaihd.net
 #EA End
-# Last Update Time : 2024-09-10 16:49:43 
+# Last Update Time : 2024-09-10 16:52:51 
 
 #Github: https://github.com/xiulou23/FastHostSync
 
