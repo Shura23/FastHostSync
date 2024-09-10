@@ -70,3 +70,13 @@ platforms:
 - - Tails OS
   - tails.net
   - download.tails.net
+- - Encrypt DNS
+  - dns.oszx.co
+  - 0ms.dev
+  - anycast.dns.nextdns.io
+  - dns.cloudflare.com
+  - doh.opendns.com
+  - kaitain.restena.lu
+  - max.rethinkdns.com
+  - freedns.controld.com
+  - dns.dnswarden.com
