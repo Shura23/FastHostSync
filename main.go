@@ -53,7 +53,7 @@ func main() {
 		result += resultTmp
 		resultTmp = ""
 	}
-	result += "#Github: https://github.com/Clov614/SteamHostSync\n"
+	result += "#Github: https://github.com/xiulou23/FastHostSync\n"
 	fileIO.WriteHost(result, "Hosts")
 	_, err := os.Stat("./README_TEMP.md")
 	if err != nil {
