@@ -3,14 +3,36 @@ ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Ge
 platforms:
 - - github
   - alive.github.com
+  - docs.github.com
   - live.github.com
+  - uploads.github.com
+  - training.github.com
+  - objects.githubusercontent.com
+  - pages.github.com
+  - pipelines.actions.githubusercontent.com
+  - customer-stories-feed.github.com
   - github.githubassets.com
   - central.github.com
+  - viewscreen.githubusercontent.com
   - desktop.githubusercontent.com
+  - raw.github.com
+  - repository-images.githubusercontent.com
   - assets-cdn.github.com
+  - github.map.fastly.net
+  - github-production-release-asset-2e65be.s3.amazonaws.com
+  - github-production-repository-file-5c1aeb.s3.amazonaws.com
+  - github-production-user-asset-6210df.s3.amazonaws.com
   - camo.githubusercontent.com
   - github.map.fastly.net
   - github.global.ssl.fastly.net
+  - gist.githubusercontent.com
+  - githubapp.com
+  - github.blog
+  - github-cloud.s3.amazonaws.com
+  - githubstatus.com
+  - guides.github.com
+  - help.github.com
+  - github.community
   - gist.github.com
   - github.io
   - github.com
@@ -25,9 +47,14 @@ platforms:
   - avatars4.githubusercontent.com
   - avatars3.githubusercontent.com
   - avatars2.githubusercontent.com
+  - avatars6.githubusercontent.com
+  - avatars7.githubusercontent.com
+  - avatars8.githubusercontent.com
   - avatars1.githubusercontent.com
   - avatars0.githubusercontent.com
   - avatars.githubusercontent.com
+  - cloud.githubusercontent.com
+  - central.github.com
   - codeload.github.com
   - github-cloud.s3.amazonaws.com
   - github-com.s3.amazonaws.com
@@ -41,6 +68,10 @@ platforms:
 - - steam
   - steamcommunity.com
   - www.steamcommunity.com
+  - steampowered.com
+  - steamgames.com
+  - steamcommunity.com
+  - steamcommunity-a.akamaihd.net
   - store.steampowered.com
   - api.steampowered.com
   - help.steampowered.com
@@ -50,6 +81,10 @@ platforms:
   - cdn.akamai.steamstatic.com
   - steam-chat.com
   - community.akamai.steamstatic.com
+  - cdn.steamcommunity.com
+  - cdn.steampowered.com
+  - cdn.store.steampowered.com
+  - media.steampowered.com
 - - Ubisoft_download
   - static3.cdn.Ubi.com
   - static2.cdn.Ubi.com
@@ -114,4 +149,18 @@ platforms:
   - uta.iwara.tv
   - mikoto.iwara.tv
   - miki.iwara.tv
+- - EPIC
+  - download2.epicgames.com
+  - download3.epicgames.com
+  - download4.epicgames.com
+  - download.epicgames.com
+  - epicgames-download1.akamaized.net
+  - epic-social-social-modules-prod.ol.epicgames.com
+  - eulatracking-public-service-prod06.ol.epicgames.com
+  - media-cdn.epicgames.com
+  - static-assets-prod.epicgames.com
+  - store-content.ak.epicgames.com
+  - tracking.epicgames.com
+  
+  
   
