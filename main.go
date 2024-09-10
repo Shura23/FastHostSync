@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SteamHostSync/fileIO"
+	"github.com/FastHostSync/fileIO"
 	"github.com/levigross/grequests"
 )
 
