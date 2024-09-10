@@ -80,3 +80,6 @@ platforms:
   - max.rethinkdns.com
   - freedns.controld.com
   - dns.dnswarden.com
+- - EA
+  - www.ea.com
+  - origin-a.akamaihd.net
