@@ -62,4 +62,5 @@ platforms:
   - index.docker.io
 - - Brave browser
   - brave.com
+  - brave.com/zh/download/
   - laptop-updates.brave.com
