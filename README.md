@@ -38,42 +38,42 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.113.26			alive.github.com
-140.82.113.25			live.github.com
+140.82.112.25			alive.github.com
+140.82.113.26			live.github.com
 185.199.108.154			github.githubassets.com
-140.82.114.21			central.github.com
-185.199.111.133			desktop.githubusercontent.com
-185.199.109.153			assets-cdn.github.com
-185.199.111.133			camo.githubusercontent.com
-185.199.110.133			github.map.fastly.net
-151.101.65.194			github.global.ssl.fastly.net
-140.82.112.3			gist.github.com
-185.199.110.153			github.io
-140.82.114.3			github.com
+140.82.112.21			central.github.com
+185.199.108.133			desktop.githubusercontent.com
+185.199.110.153			assets-cdn.github.com
+185.199.110.133			camo.githubusercontent.com
+185.199.108.133			github.map.fastly.net
+151.101.1.194			github.global.ssl.fastly.net
+140.82.112.4			gist.github.com
+185.199.108.153			github.io
+140.82.113.4			github.com
 192.0.66.2			github.blog
-140.82.113.5			api.github.com
-185.199.108.133			raw.githubusercontent.com
-185.199.110.133			user-images.githubusercontent.com
-185.199.109.133			favicons.githubusercontent.com
-185.199.110.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
-185.199.111.133			avatars3.githubusercontent.com
-185.199.111.133			avatars2.githubusercontent.com
-185.199.110.133			avatars1.githubusercontent.com
-185.199.110.133			avatars0.githubusercontent.com
-185.199.111.133			avatars.githubusercontent.com
-140.82.114.10			codeload.github.com
-3.5.27.99			github-cloud.s3.amazonaws.com
-3.5.28.165			github-com.s3.amazonaws.com
-52.216.136.139			github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.169.233			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.49.20			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.111.153			githubstatus.com
-140.82.114.18			github.community
+140.82.113.6			api.github.com
+185.199.110.133			raw.githubusercontent.com
+185.199.108.133			user-images.githubusercontent.com
+185.199.108.133			favicons.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
+185.199.110.133			avatars4.githubusercontent.com
+185.199.109.133			avatars3.githubusercontent.com
+185.199.109.133			avatars2.githubusercontent.com
+185.199.109.133			avatars1.githubusercontent.com
+185.199.109.133			avatars0.githubusercontent.com
+185.199.109.133			avatars.githubusercontent.com
+140.82.113.10			codeload.github.com
+16.182.66.193			github-cloud.s3.amazonaws.com
+52.217.138.241			github-com.s3.amazonaws.com
+16.182.66.193			github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.117.217			github-production-user-asset-6210df.s3.amazonaws.com
+52.216.109.67			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.108.153			githubstatus.com
+140.82.113.18			github.community
 52.224.38.193			github.dev
 185.199.109.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-09-10 17:51:09 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #steam Start
 23.47.27.74			steamcommunity.com
@@ -81,52 +81,52 @@ win + R 后执行 `shell:startup`
 23.50.124.114			store.steampowered.com
 23.47.27.74			api.steampowered.com
 23.47.27.74			help.steampowered.com
-104.96.221.59			store.akamai.steamstatic.com
+23.218.218.135			store.akamai.steamstatic.com
 23.215.0.136			steamcdn-a.akamaihd.net
-104.96.221.59			steamstore-a.akamaihd.net
-104.96.221.66			cdn.akamai.steamstatic.com
+23.218.218.185			steamstore-a.akamaihd.net
+23.218.218.188			cdn.akamai.steamstatic.com
 104.94.121.98			steam-chat.com
-104.96.221.66			community.akamai.steamstatic.com
+23.218.218.137			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2024-09-10 17:51:09 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #Ubisoft_download Start
 23.62.160.240			static3.cdn.Ubi.com
 23.62.165.107			static2.cdn.Ubi.com
-193.108.91.206			static1.cdn.Ubi.com
+84.53.139.65			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-09-10 17:51:09 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #docker Start
 141.193.213.20			docker.com
-44.193.181.103			hub.docker.com
-18.160.10.58			docs.docker.com
-104.19.167.24			login.docker.com
-34.226.69.105			registry.hub.docker.com
-3.224.227.198			docker.io
-54.196.99.49			registry-1.docker.io
+44.219.3.189			hub.docker.com
+18.160.10.92			docs.docker.com
+104.19.168.24			login.docker.com
+3.219.239.5			registry.hub.docker.com
+44.219.3.189			docker.io
+3.219.239.5			registry-1.docker.io
 3.219.239.5			index.docker.io
 #docker End
-# Last Update Time : 2024-09-10 17:51:09 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #Brave browser Start
-3.167.56.82			brave.com
-151.101.65.32			laptop-updates.brave.com
+3.167.56.114			brave.com
+151.101.193.32			laptop-updates.brave.com
 #Brave browser End
-# Last Update Time : 2024-09-10 17:51:09 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #Tor browser Start
 116.202.120.165			www.torproject.org
 204.8.99.146			community.torproject.org
 204.8.99.146			blog.torproject.org
 #Tor browser End
-# Last Update Time : 2024-09-10 17:51:10 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #Tails OS Start
 204.13.164.63			tails.net
 204.13.164.63			download.tails.net
 #Tails OS End
-# Last Update Time : 2024-09-10 17:51:10 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
@@ -139,7 +139,7 @@ win + R 后执行 `shell:startup`
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-09-10 17:51:10 
+# Last Update Time : 2024-09-10 17:55:49 
 
 #EA Start
 23.39.184.174			www.ea.com
@@ -148,7 +148,7 @@ win + R 后执行 `shell:startup`
 23.13.164.104			media.contentapi.ea.com
 23.62.165.14			nds-network-nav.ea.com
 #EA End
-# Last Update Time : 2024-09-10 17:51:10 
+# Last Update Time : 2024-09-10 17:55:50 
 
 #Github: https://github.com/xiulou23/FastHostSync
 
