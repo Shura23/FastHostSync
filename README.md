@@ -38,109 +38,109 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.112.26			alive.github.com
-140.82.113.26			live.github.com
+140.82.114.25			alive.github.com
+140.82.114.25			live.github.com
 185.199.111.154			github.githubassets.com
-140.82.114.22			central.github.com
-185.199.109.133			desktop.githubusercontent.com
+140.82.112.21			central.github.com
+185.199.110.133			desktop.githubusercontent.com
 185.199.110.153			assets-cdn.github.com
-185.199.109.133			camo.githubusercontent.com
-185.199.109.133			github.map.fastly.net
-151.101.1.194			github.global.ssl.fastly.net
-140.82.113.4			gist.github.com
-185.199.108.153			github.io
+185.199.108.133			camo.githubusercontent.com
+185.199.110.133			github.map.fastly.net
+151.101.65.194			github.global.ssl.fastly.net
+140.82.114.3			gist.github.com
+185.199.111.153			github.io
 140.82.114.4			github.com
 192.0.66.2			github.blog
-140.82.113.5			api.github.com
-185.199.110.133			raw.githubusercontent.com
-185.199.110.133			user-images.githubusercontent.com
-185.199.108.133			favicons.githubusercontent.com
+140.82.112.5			api.github.com
+185.199.111.133			raw.githubusercontent.com
+185.199.111.133			user-images.githubusercontent.com
+185.199.110.133			favicons.githubusercontent.com
 185.199.108.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.110.133			avatars2.githubusercontent.com
-185.199.110.133			avatars1.githubusercontent.com
-185.199.110.133			avatars0.githubusercontent.com
-185.199.110.133			avatars.githubusercontent.com
+185.199.110.133			avatars4.githubusercontent.com
+185.199.109.133			avatars3.githubusercontent.com
+185.199.109.133			avatars2.githubusercontent.com
+185.199.111.133			avatars1.githubusercontent.com
+185.199.111.133			avatars0.githubusercontent.com
+185.199.108.133			avatars.githubusercontent.com
 140.82.114.9			codeload.github.com
-3.5.30.233			github-cloud.s3.amazonaws.com
-3.5.3.137			github-com.s3.amazonaws.com
-16.182.65.177			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.68.228			github-production-user-asset-6210df.s3.amazonaws.com
-52.217.73.196			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.153			githubstatus.com
-140.82.114.17			github.community
-20.99.227.183			github.dev
-185.199.110.133			media.githubusercontent.com
+52.216.248.204			github-cloud.s3.amazonaws.com
+52.217.122.17			github-com.s3.amazonaws.com
+52.216.44.217			github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.44.217			github-production-user-asset-6210df.s3.amazonaws.com
+52.217.201.49			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.153			githubstatus.com
+140.82.113.18			github.community
+52.224.38.193			github.dev
+185.199.108.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-09-10 15:41:01 
+# Last Update Time : 2024-09-10 15:46:15 
 
 #steam Start
-23.52.218.12			steamcommunity.com
-23.63.253.149			www.steamcommunity.com
-23.202.57.41			store.steampowered.com
-23.52.218.12			api.steampowered.com
-23.52.218.12			help.steampowered.com
-23.62.226.244			store.akamai.steamstatic.com
-23.67.33.202			steamcdn-a.akamaihd.net
-23.62.226.242			cdn.akamai.steamstatic.com
-23.63.253.149			steam-chat.com
-23.62.226.238			community.akamai.steamstatic.com
+23.214.234.105			steamcommunity.com
+23.213.69.147			www.steamcommunity.com
+104.87.84.91			store.steampowered.com
+23.214.234.105			api.steampowered.com
+23.214.234.105			help.steampowered.com
+104.96.221.59			store.akamai.steamstatic.com
+23.62.6.170			steamcdn-a.akamaihd.net
+104.96.221.65			cdn.akamai.steamstatic.com
+23.213.69.147			steam-chat.com
+104.96.221.51			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2024-09-10 15:41:01 
+# Last Update Time : 2024-09-10 15:46:15 
 
 #Ubisoft_download Start
-23.33.16.241			static3.cdn.Ubi.com
-104.107.105.193			static2.cdn.Ubi.com
-84.53.139.65			static1.cdn.Ubi.com
+23.222.201.62			static3.cdn.Ubi.com
+23.62.165.107			static2.cdn.Ubi.com
+2.16.40.64			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-09-10 15:41:01 
+# Last Update Time : 2024-09-10 15:46:15 
 
 #docker Start
 141.193.213.20			docker.com
-3.224.227.198			hub.docker.com
-13.226.225.27			docs.docker.com
-104.19.168.24			login.docker.com
-54.196.99.49			registry.hub.docker.com
-44.219.3.189			docker.io
+44.219.3.189			hub.docker.com
+18.160.10.58			docs.docker.com
+104.19.167.24			login.docker.com
+34.226.69.105			registry.hub.docker.com
+3.224.227.198			docker.io
 3.219.239.5			registry-1.docker.io
-34.226.69.105			index.docker.io
+54.196.99.49			index.docker.io
 #docker End
-# Last Update Time : 2024-09-10 15:41:01 
+# Last Update Time : 2024-09-10 15:46:15 
 
 #Brave browser Start
-18.164.174.94			brave.com
+3.167.56.114			brave.com
 151.101.193.32			laptop-updates.brave.com
 #Brave browser End
-# Last Update Time : 2024-09-10 15:41:01 
+# Last Update Time : 2024-09-10 15:46:16 
 
 #Tor browser Start
-204.8.99.146			www.torproject.org
-204.8.99.146			community.torproject.org
-116.202.120.166			blog.torproject.org
+95.216.163.36			www.torproject.org
+95.216.163.36			community.torproject.org
+116.202.120.165			blog.torproject.org
 #Tor browser End
-# Last Update Time : 2024-09-10 15:41:02 
+# Last Update Time : 2024-09-10 15:46:16 
 
 #Tails OS Start
-94.142.244.34			tails.net
+204.13.164.63			tails.net
 204.13.164.63			download.tails.net
 #Tails OS End
-# Last Update Time : 2024-09-10 15:41:02 
+# Last Update Time : 2024-09-10 15:46:16 
 
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
 172.67.153.195			0ms.dev
 45.90.28.0			anycast.dns.nextdns.io
-104.16.132.229			dns.cloudflare.com
+104.16.133.229			dns.cloudflare.com
 146.112.41.2			doh.opendns.com
 158.64.1.29			kaitain.restena.lu
 137.66.7.89			max.rethinkdns.com
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-09-10 15:41:02 
+# Last Update Time : 2024-09-10 15:46:16 
 
-#Github: https://github.com/xiulou23/FastHostSync
+#Github: https://github.com/Clov614/SteamHostSync
 
 ```
 
