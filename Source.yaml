@@ -60,3 +60,6 @@ platforms:
   - docker.io
   - registry-1.docker.io
   - index.docker.io
+- - Brave browser
+  - brave.com
+  - laptop-updates.brave.com
