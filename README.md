@@ -140,7 +140,7 @@ win + R 后执行 `shell:startup`
 #Encrypt DNS End
 # Last Update Time : 2024-09-10 15:41:02 
 
-#Github: https://github.com/Clov614/SteamHostSync
+#Github: https://github.com/xiulou23/FastHostSync
 
 ```
 
