@@ -62,5 +62,11 @@ platforms:
   - index.docker.io
 - - Brave browser
   - brave.com
-  - brave.com/zh/download/
   - laptop-updates.brave.com
+- - Tor browser
+  - www.torproject.org
+  - community.torproject.org
+  - blog.torproject.org
+- - Tails OS
+  - tails.net
+  - download.tails.net
