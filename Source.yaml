@@ -149,6 +149,7 @@ platforms:
   - uta.iwara.tv^$important
   - mikoto.iwara.tv^$important
   - miki.iwara.tv^$important
+  - api.iwara.tv^$important
 - - EPIC
   - download2.epicgames.com
   - download3.epicgames.com
