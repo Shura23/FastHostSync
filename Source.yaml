@@ -139,16 +139,16 @@ platforms:
 - - debian
   - deb.debian.org
 - - iwara
-  - iwara.tv
-  - i.iwara.tv
-  - www.iwara.tv
-  - hime.iwara.tv
-  - aku.iwara.tv
-  - sukone.iwara.tv
-  - xin.iwara.tv
-  - uta.iwara.tv
-  - mikoto.iwara.tv
-  - miki.iwara.tv
+  - iwara.tv^$important
+  - i.iwara.tv^$important
+  - www.iwara.tv^$important
+  - hime.iwara.tv^$important
+  - aku.iwara.tv^$important
+  - sukone.iwara.tv^$important
+  - xin.iwara.tv^$important
+  - uta.iwara.tv^$important
+  - mikoto.iwara.tv^$important
+  - miki.iwara.tv^$important
 - - EPIC
   - download2.epicgames.com
   - download3.epicgames.com
