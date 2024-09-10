@@ -17,7 +17,7 @@ win + R 后执行 `shell:startup`
 ### 配置SwitchHosts实现自动更新  
 可选的URL有:
 如果访问不到GitHub可以尝试将`github.com`替换为`hub.fastgit.xyz`(国内镜像)
-1. ALL: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts`  
+1. ALL: `https://raw.githubusercontent.com/xiulou23/FastHostSync/main/Hosts`  
 2. Steam: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_steam`  
 3. github: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_github`    
 `镜像地址:`
