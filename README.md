@@ -38,97 +38,97 @@ win + R 后执行 `shell:startup`
 
 ```
 #github Start
-140.82.114.25			alive.github.com
-140.82.114.26			live.github.com
-185.199.111.154			github.githubassets.com
-140.82.113.21			central.github.com
+140.82.113.26			alive.github.com
+140.82.114.25			live.github.com
+185.199.109.154			github.githubassets.com
+140.82.114.21			central.github.com
 185.199.109.133			desktop.githubusercontent.com
 185.199.111.153			assets-cdn.github.com
-185.199.111.133			camo.githubusercontent.com
-185.199.110.133			github.map.fastly.net
-151.101.193.194			github.global.ssl.fastly.net
+185.199.108.133			camo.githubusercontent.com
+185.199.109.133			github.map.fastly.net
+151.101.129.194			github.global.ssl.fastly.net
 140.82.113.4			gist.github.com
-185.199.111.153			github.io
-140.82.113.4			github.com
+185.199.108.153			github.io
+140.82.113.3			github.com
 192.0.66.2			github.blog
-140.82.113.6			api.github.com
-185.199.110.133			raw.githubusercontent.com
-185.199.109.153			archiveprogram.github.com
-185.199.109.153			assets-cdn.github.com
-185.199.110.133			user-images.githubusercontent.com
-185.199.109.133			favicons.githubusercontent.com
-185.199.108.133			avatars5.githubusercontent.com
+140.82.112.5			api.github.com
+185.199.111.133			raw.githubusercontent.com
+185.199.108.153			archiveprogram.github.com
+185.199.111.153			assets-cdn.github.com
+185.199.111.133			user-images.githubusercontent.com
+185.199.111.133			favicons.githubusercontent.com
+185.199.109.133			avatars5.githubusercontent.com
 185.199.111.133			avatars4.githubusercontent.com
 185.199.111.133			avatars3.githubusercontent.com
-185.199.110.133			avatars2.githubusercontent.com
-185.199.111.133			avatars1.githubusercontent.com
-185.199.111.133			avatars0.githubusercontent.com
-185.199.111.133			avatars.githubusercontent.com
-140.82.113.9			codeload.github.com
-3.5.28.123			github-cloud.s3.amazonaws.com
-3.5.30.127			github-com.s3.amazonaws.com
-3.5.30.127			github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.130.241			github-production-user-asset-6210df.s3.amazonaws.com
-3.5.28.123			github-production-repository-file-5c1aeb.s3.amazonaws.com
-185.199.109.153			githubstatus.com
-140.82.114.18			github.community
-52.224.38.193			github.dev
-185.199.109.133			media.githubusercontent.com
+185.199.108.133			avatars2.githubusercontent.com
+185.199.109.133			avatars1.githubusercontent.com
+185.199.110.133			avatars0.githubusercontent.com
+185.199.108.133			avatars.githubusercontent.com
+140.82.114.10			codeload.github.com
+3.5.25.237			github-cloud.s3.amazonaws.com
+52.217.89.212			github-com.s3.amazonaws.com
+52.216.186.179			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.230			github-production-user-asset-6210df.s3.amazonaws.com
+3.5.29.171			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.110.153			githubstatus.com
+140.82.112.18			github.community
+20.99.227.183			github.dev
+185.199.108.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-09-11 01:11:54 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #steam Start
-23.214.234.105			steamcommunity.com
-23.213.69.147			www.steamcommunity.com
-23.202.153.171			store.steampowered.com
-23.214.234.105			api.steampowered.com
-23.214.234.105			help.steampowered.com
-104.96.221.83			store.akamai.steamstatic.com
-23.215.0.133			steamcdn-a.akamaihd.net
-104.96.221.59			steamstore-a.akamaihd.net
-104.96.221.65			cdn.akamai.steamstatic.com
-23.213.69.147			steam-chat.com
-104.96.221.51			community.akamai.steamstatic.com
+23.66.133.162			steamcommunity.com
+72.246.127.118			www.steamcommunity.com
+23.202.57.41			store.steampowered.com
+23.66.133.162			api.steampowered.com
+23.66.133.162			help.steampowered.com
+23.62.226.244			store.akamai.steamstatic.com
+23.62.46.120			steamcdn-a.akamaihd.net
+23.62.226.244			steamstore-a.akamaihd.net
+23.62.226.242			cdn.akamai.steamstatic.com
+72.246.127.118			steam-chat.com
+23.62.226.238			community.akamai.steamstatic.com
 #steam End
-# Last Update Time : 2024-09-11 01:11:54 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #Ubisoft_download Start
-23.222.201.62			static3.cdn.Ubi.com
-23.221.241.203			static2.cdn.Ubi.com
-2.16.40.64			static1.cdn.Ubi.com
+23.40.25.65			static3.cdn.Ubi.com
+23.44.73.213			static2.cdn.Ubi.com
+84.53.139.65			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-09-11 01:11:54 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #docker Start
-141.193.213.20			docker.com
-44.193.181.103			hub.docker.com
-18.160.10.92			docs.docker.com
-104.19.167.24			login.docker.com
-34.226.69.105			registry.hub.docker.com
-3.224.227.198			docker.io
-54.196.99.49			registry-1.docker.io
-3.219.239.5			index.docker.io
+141.193.213.21			docker.com
+44.219.3.189			hub.docker.com
+13.226.225.63			docs.docker.com
+104.19.168.24			login.docker.com
+3.219.239.5			registry.hub.docker.com
+44.219.3.189			docker.io
+3.219.239.5			registry-1.docker.io
+34.226.69.105			index.docker.io
 #docker End
-# Last Update Time : 2024-09-11 01:11:54 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #Brave browser Start
-3.167.56.104			brave.com
-151.101.193.32			laptop-updates.brave.com
+18.164.174.41			brave.com
+151.101.65.32			laptop-updates.brave.com
 #Brave browser End
-# Last Update Time : 2024-09-11 01:11:54 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #Tor browser Start
 204.8.99.146			www.torproject.org
-204.8.99.144			community.torproject.org
-204.8.99.144			blog.torproject.org
+95.216.163.36			community.torproject.org
+116.202.120.166			blog.torproject.org
 #Tor browser End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #Tails OS Start
 204.13.164.63			tails.net
 204.13.164.63			download.tails.net
 #Tails OS End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
@@ -141,39 +141,39 @@ win + R 后执行 `shell:startup`
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #EA Start
-23.39.184.174			www.ea.com
-23.54.127.79			origin-a.akamaihd.net
-23.221.241.90			pl.ea.com
-23.213.94.171			media.contentapi.ea.com
-23.221.241.90			nds-network-nav.ea.com
+23.194.100.175			www.ea.com
+23.220.73.210			origin-a.akamaihd.net
+23.44.73.98			pl.ea.com
+23.51.192.206			media.contentapi.ea.com
+23.44.73.98			nds-network-nav.ea.com
 #EA End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:41 
 
 #gitlab Start
 172.65.251.78			gitlab.com
 172.65.251.78			www.gitlab.com
-104.17.72.206			page.gitlab.com
-172.64.148.245			packages.gitlab.com
+104.17.73.206			page.gitlab.com
+104.18.39.11			packages.gitlab.com
 104.18.249.37			support.gitlab.com
 172.64.148.245			customers.gitlab.com
 172.65.216.50			staging.gitlab.com
-104.16.51.111			federal-support.gitlab.com
+216.198.54.1			federal-support.gitlab.com
 35.227.35.254			registry.gitlab.com
-108.162.192.97			evelup.gitlab.com
-104.18.39.11			chef.gitlab.com
+108.162.195.157			evelup.gitlab.com
+172.64.148.245			chef.gitlab.com
 #gitlab End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:42 
 
 #debian Start
-146.75.30.132			deb.debian.org
+151.101.198.132			deb.debian.org
 #debian End
-# Last Update Time : 2024-09-11 01:11:55 
+# Last Update Time : 2024-09-11 01:27:42 
 
 #iwara Start
-172.67.71.154			iwara.tv
+104.26.13.96			iwara.tv
 104.26.12.96			i.iwara.tv
 172.67.71.154			www.iwara.tv
 66.165.237.254			hime.iwara.tv
@@ -184,7 +184,7 @@ win + R 后执行 `shell:startup`
 192.211.62.190			mikoto.iwara.tv
 163.172.44.153			miki.iwara.tv
 #iwara End
-# Last Update Time : 2024-09-11 01:11:56 
+# Last Update Time : 2024-09-11 01:27:42 
 
 #Github: https://github.com/xiulou23/FastHostSync
 
