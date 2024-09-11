@@ -240,6 +240,8 @@ platforms:
   - assets1.xboxlive.cn
   - assets2.xboxlive.cn
   - xboxlive.com
+  - da.xboxservices.com
+  - device.auth.xboxlive.com
 - - Apkpure
   - download.pureapk.com
   - api.pureapk.com
@@ -263,6 +265,8 @@ platforms:
   - wdcp.microsoft.com
   - officeclient.microsoft.com
   - api-edge.cognitive.microsofttranslator.com
+  - edge.microsoft.com
+  - storeedgefd.dsx.mp.microsoft.com
   
   
   
