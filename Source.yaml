@@ -249,6 +249,20 @@ platforms:
   - tapi.upload.app
   - api.sve.cc
   - wap.yushuwu.cloud
+- - Microsoft
+  - login.microsoftonline.com
+  - fe3cr.delivery.mp.microsoft.com
+  - fe2cr.update.microsoft.com
+  - slscr.update.microsoft.com
+  - nav-edge.smartscreen.microsoft.com
+  - graph.microsoft.com
+  - go.microsoft.com
+  - static.edge.microsoftapp.net
+  - oneocsp.microsoft.com
+  - nf.smartscreen.microsoft.com
+  - wdcp.microsoft.com
+  - officeclient.microsoft.com
+  - api-edge.cognitive.microsofttranslator.com
   
   
   
