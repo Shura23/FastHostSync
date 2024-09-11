@@ -8,6 +8,7 @@ platforms:
   - uploads.github.com
   - training.github.com
   - objects.githubusercontent.com
+  - metamask.github.io
   - pages.github.com
   - pipelines.actions.githubusercontent.com
   - customer-stories-feed.github.com
