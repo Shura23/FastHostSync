@@ -92,6 +92,7 @@ platforms:
   - static1.cdn.Ubi.com
 - - docker
   - docker.com
+  - auth.docker.io
   - hub.docker.com
   - docs.docker.com
   - login.docker.com
@@ -190,6 +191,54 @@ platforms:
   - static-assets-prod.epicgames.com
   - store-content.ak.epicgames.com
   - tracking.epicgames.com
+- - google
+  - update.googleapis.com
+  - translate-pa.googleapis.com
+  - translate.google.com
+  - firebaseinstallations.googleapis.com
+  - infinitedata-pa.googleapis.com
+  - geller-pa.googleapis.com
+  - alt1.mobile-gtalk.l.google.com
+  - alt2.mobile-gtalk4.l.google.com
+  - alt3.mobile-gtalk.l.google.com
+  - alt4.mobile-gtalk4.l.google.com
+  - alt5.mobile-gtalk.l.google.com
+  - alt6.mobile-gtalk4.l.google.com
+  - alt7.mobile-gtalk.l.google.com
+  - alt8.mobile-gtalk4.l.google.com
+  - translate.googleapis.com
+  - www3.l.google.com
+  - services.googleapis.cn
+  - play-fe.googleapis.com
+  - play-lh.googleusercontent.com
+  - play.googleapis.com
+  - alt1-mtalk.google.com
+  - alt2-mtalk.google.com
+  - alt3-mtalk.google.com
+  - alt4-mtalk.google.com
+  - alt5-mtalk.google.com
+  - alt6-mtalk.google.com
+  - alt7-mtalk.google.com
+  - alt8-mtalk.google.com
+  - content-autofill.googleapis.com
+  - googlecn-lopri.l.google.com
+  - www.googleapis.cn
+- - xbox
+  - gameclipscontent-d2009.xboxlive.com
+  - images-eds.xboxlive.com
+  - xbl-smooth.xboxlive.com
+  - titlehub.xboxlive.com
+  - compass.xboxlive.com
+  - xnotify.xboxlive.com
+  - activityhub.xboxlive.com
+  - images-eds-ssl.xboxlive.com
+  - rta.xboxlive.com
+  - peoplehub.xboxlive.com
+  - editorial.xboxlive.com
+  - assets1.xboxlive.cn
+  - assets2.xboxlive.cn
+  - xboxlive.com
+  
   
   
   
