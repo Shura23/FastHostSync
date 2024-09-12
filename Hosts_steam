@@ -8,24 +8,24 @@
 103.28.54.162			ext3-hkg1.steamserver.net
 104.96.221.81			test.steampowered.com
 ####			ipv6check-http.steamserver.net
-106.42.232.104			dl.steam.clngaa.com
-157.185.163.159			cdn-ws.content.steamchina.com
+106.42.232.174			dl.steam.clngaa.com
+157.185.164.166			cdn-ws.content.steamchina.com
 23.214.234.105			steamcommunity.com
-104.96.221.66			steamcommunity-a.akamaihd.net
-23.55.204.114			store.steampowered.com
+104.96.221.51			steamcommunity-a.akamaihd.net
+23.45.149.185			store.steampowered.com
 23.214.234.105			api.steampowered.com
-198.185.159.145			steampoweredmedia.com
+198.49.23.144			steampoweredmedia.com
 23.214.234.105			help.steampowered.com
 104.96.221.83			store.akamai.steamstatic.com
-23.215.0.133			steamcdn-a.akamaihd.net
-104.96.221.59			steamstore-a.akamaihd.net
+23.215.0.136			steamcdn-a.akamaihd.net
+104.96.221.83			steamstore-a.akamaihd.net
 104.96.221.65			cdn.akamai.steamstatic.com
 23.213.69.147			steam-chat.com
 104.96.221.51			community.akamai.steamstatic.com
-104.96.221.66			cdn.steamcommunity.com
+104.96.221.51			cdn.steamcommunity.com
 23.215.0.137			cdn.steampowered.com
-104.96.221.83			cdn.store.steampowered.com
+104.96.221.59			cdn.store.steampowered.com
 104.96.221.66			media.steampowered.com
 #steam End
-# Last Update Time : 2024-09-12 19:27:59 
+# Last Update Time : 2024-09-12 19:35:37 
 
