@@ -291,6 +291,16 @@ platforms:
   - heads4-ak-spotify-com.akamaized.net
   - audio-ak-spotify-com.akamaized.net
   - audio-akp-quic-spotify-com.akamaized.net
+- - scdn
+  - audio-fa.scdn.co
+  - misc.scdn.co
+  - i.scdn.co
+  - newjams-images.scdn.co
+  - dailymix-images.scdn.co
+  - thisis-images.scdn.co
+  - charts-images.scdn.co
+  - seeded-session-images.scdn.co
+  - download.scdn.co
   - 
   
   
