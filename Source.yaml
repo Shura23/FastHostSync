@@ -71,10 +71,18 @@ platforms:
   - www.steamcommunity.com
   - steampowered.com
   - steamgames.com
+  - cdn.steamstatic.com
+  - clientconfig.akamai.steamstatic.com
+  - ext3-hkg1.steamserver.net
+  - test.steampowered.com
+  - ipv6check-http.steamserver.net
+  - dl.steam.clngaa.com
+  - cdn-ws.content.steamchina.com
   - steamcommunity.com
   - steamcommunity-a.akamaihd.net
   - store.steampowered.com
   - api.steampowered.com
+  - steampoweredmedia.com
   - help.steampowered.com
   - store.akamai.steamstatic.com
   - steamcdn-a.akamaihd.net
@@ -267,6 +275,23 @@ platforms:
   - edge.microsoft.com
   - storeedgefd.dsx.mp.microsoft.com
   - msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+- - duckduckgo
+  - duckduckgo.com
+  - www.duckduckgo.com
+- - spotify
+  - ap-gae2.spotify.com
+  - ap-guc3.spotify.com
+  - ap-gew1.spotify.com
+  - ap-gew4.spotify.com
+  - ap-gue1.spotify.com
+  - spclient.wg.spotify.com
+  - wg.spotify.com
+  - gae-spclient.spotify.com
+  - audio4-ak-spotify-com.akamaized.net
+  - heads4-ak-spotify-com.akamaized.net
+  - audio-ak-spotify-com.akamaized.net
+  - audio-akp-quic-spotify-com.akamaized.net
+  - 
   
   
   
