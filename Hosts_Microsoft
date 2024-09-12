@@ -1,19 +1,19 @@
 #Microsoft Start
-20.190.190.131			login.microsoftonline.com
+20.190.151.69			login.microsoftonline.com
 13.85.23.206			fe3cr.delivery.mp.microsoft.com
-20.163.45.186			fe2cr.update.microsoft.com
-20.114.59.183			slscr.update.microsoft.com
-20.88.206.205			nav-edge.smartscreen.microsoft.com
-20.190.132.105			graph.microsoft.com
+4.154.131.236			fe2cr.update.microsoft.com
+40.68.123.157			slscr.update.microsoft.com
+52.159.108.190			nav-edge.smartscreen.microsoft.com
+20.190.132.106			graph.microsoft.com
 23.37.17.215			go.microsoft.com
 13.107.246.69			static.edge.microsoftapp.net
 204.79.197.203			oneocsp.microsoft.com
-13.91.96.185			nf.smartscreen.microsoft.com
-4.236.248.221			wdcp.microsoft.com
-52.109.20.38			officeclient.microsoft.com
+40.118.171.167			nf.smartscreen.microsoft.com
+20.253.207.205			wdcp.microsoft.com
+52.109.8.89			officeclient.microsoft.com
 40.82.255.97			api-edge.cognitive.microsofttranslator.com
 13.107.21.239			edge.microsoft.com
 23.37.18.97			storeedgefd.dsx.mp.microsoft.com
 #Microsoft End
-# Last Update Time : 2024-09-12 11:07:43 
+# Last Update Time : 2024-09-12 11:27:41 
 
