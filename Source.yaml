@@ -278,6 +278,7 @@ platforms:
 - - duckduckgo
   - duckduckgo.com
   - www.duckduckgo.com
+  - ac.duckduckgo.com
 - - spotify
   - ap-gae2.spotify.com
   - ap-guc3.spotify.com
