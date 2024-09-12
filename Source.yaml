@@ -266,6 +266,7 @@ platforms:
   - api-edge.cognitive.microsofttranslator.com
   - edge.microsoft.com
   - storeedgefd.dsx.mp.microsoft.com
+  - msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
   
   
   
