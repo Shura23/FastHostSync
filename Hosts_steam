@@ -3,12 +3,12 @@
 104.94.121.98			www.steamcommunity.com
 104.94.121.98			steampowered.com
 104.94.121.98			steamgames.com
-23.218.218.177			cdn.steamstatic.com
-23.215.0.145			clientconfig.akamai.steamstatic.com
+104.96.221.56			cdn.steamstatic.com
+23.215.0.139			clientconfig.akamai.steamstatic.com
 103.28.54.162			ext3-hkg1.steamserver.net
-23.218.218.164			test.steampowered.com
+104.96.221.81			test.steampowered.com
 47.252.96.19			steamcloud-hkg.oss-accelerate.aliyuncs.com
-####			ipv6check-udp.steamserver.net
+2.22.230.130			ipv6check-udp.steamserver.net
 45.121.184.21			ext2-tyo3.steamserver.net
 103.10.124.125			ext4-sgp1.steamserver.net
 103.10.124.124			ext3-sgp1.steamserver.net
@@ -17,25 +17,25 @@
 103.28.54.181			ext2-hkg1.steamserver.net
 103.28.54.173			ext7-hkg1.steamserver.net
 45.121.184.21			ext2-tyo3.steamserver.net
-84.53.139.129			ipv6check-http.steamserver.net
-219.152.87.117			dl.steam.clngaa.com
+95.100.168.130			ipv6check-http.steamserver.net
+106.42.232.174			dl.steam.clngaa.com
 157.185.164.166			cdn-ws.content.steamchina.com
 23.47.27.74			steamcommunity.com
-23.218.218.173			steamcommunity-a.akamaihd.net
+104.96.221.66			steamcommunity-a.akamaihd.net
 23.55.204.114			store.steampowered.com
 23.47.27.74			api.steampowered.com
 198.49.23.144			steampoweredmedia.com
 23.47.27.74			help.steampowered.com
-23.218.218.135			store.akamai.steamstatic.com
+104.96.221.83			store.akamai.steamstatic.com
 23.215.0.133			steamcdn-a.akamaihd.net
-23.218.218.135			steamstore-a.akamaihd.net
-23.218.218.188			cdn.akamai.steamstatic.com
+104.96.221.83			steamstore-a.akamaihd.net
+104.96.221.66			cdn.akamai.steamstatic.com
 104.94.121.98			steam-chat.com
-23.218.218.173			community.akamai.steamstatic.com
-23.218.218.173			cdn.steamcommunity.com
-23.215.0.137			cdn.steampowered.com
-23.218.218.185			cdn.store.steampowered.com
-23.218.218.188			media.steampowered.com
+104.96.221.51			community.akamai.steamstatic.com
+104.96.221.66			cdn.steamcommunity.com
+23.215.0.136			cdn.steampowered.com
+104.96.221.59			cdn.store.steampowered.com
+104.96.221.65			media.steampowered.com
 #steam End
-# Last Update Time : 2024-09-15 01:46:16 
+# Last Update Time : 2024-09-15 01:52:48 
 
