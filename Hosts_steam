@@ -3,12 +3,12 @@
 23.213.69.147			www.steamcommunity.com
 23.213.69.147			steampowered.com
 23.213.69.147			steamgames.com
-104.97.85.53			cdn.steamstatic.com
+23.53.11.242			cdn.steamstatic.com
 23.215.0.145			clientconfig.akamai.steamstatic.com
 103.28.54.162			ext3-hkg1.steamserver.net
-104.97.85.44			test.steampowered.com
+23.53.11.246			test.steampowered.com
 47.252.96.19			steamcloud-hkg.oss-accelerate.aliyuncs.com
-193.108.88.128			ipv6check-udp.steamserver.net
+2.22.230.130			ipv6check-udp.steamserver.net
 45.121.184.21			ext2-tyo3.steamserver.net
 103.10.124.125			ext4-sgp1.steamserver.net
 103.10.124.124			ext3-sgp1.steamserver.net
@@ -17,25 +17,25 @@
 103.28.54.181			ext2-hkg1.steamserver.net
 103.28.54.173			ext7-hkg1.steamserver.net
 45.121.184.21			ext2-tyo3.steamserver.net
-####			ipv6check-http.steamserver.net
-106.42.232.174			dl.steam.clngaa.com
-157.185.164.166			cdn-ws.content.steamchina.com
+23.61.199.131			ipv6check-http.steamserver.net
+106.42.232.104			dl.steam.clngaa.com
+157.185.163.159			cdn-ws.content.steamchina.com
 23.214.234.105			steamcommunity.com
-104.97.85.62			steamcommunity-a.akamaihd.net
-23.210.240.66			store.steampowered.com
+23.53.11.228			steamcommunity-a.akamaihd.net
+23.45.149.185			store.steampowered.com
 23.214.234.105			api.steampowered.com
-198.49.23.145			steampoweredmedia.com
+198.185.159.144			steampoweredmedia.com
 23.214.234.105			help.steampowered.com
-104.97.85.26			store.akamai.steamstatic.com
+23.53.11.244			store.akamai.steamstatic.com
 23.215.0.133			steamcdn-a.akamaihd.net
-104.97.85.26			steamstore-a.akamaihd.net
-104.97.85.4			cdn.akamai.steamstatic.com
+23.53.11.237			steamstore-a.akamaihd.net
+23.53.11.246			cdn.akamai.steamstatic.com
 23.213.69.147			steam-chat.com
-104.97.85.8			community.akamai.steamstatic.com
-104.97.85.8			cdn.steamcommunity.com
-23.215.0.136			cdn.steampowered.com
-104.97.85.26			cdn.store.steampowered.com
-104.97.85.4			media.steampowered.com
+23.53.11.228			community.akamai.steamstatic.com
+23.53.11.248			cdn.steamcommunity.com
+23.215.0.137			cdn.steampowered.com
+23.53.11.244			cdn.store.steampowered.com
+23.53.11.248			media.steampowered.com
 #steam End
-# Last Update Time : 2024-09-14 19:32:10 
+# Last Update Time : 2024-09-14 19:40:23 
 
