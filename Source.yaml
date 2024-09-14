@@ -273,6 +273,7 @@ platforms:
   - fe3cr.delivery.mp.microsoft.com
   - fe2cr.update.microsoft.com
   - slscr.update.microsoft.com
+  - dl.delivery.mp.microsoft.com
   - nav-edge.smartscreen.microsoft.com
   - graph.microsoft.com
   - go.microsoft.com
