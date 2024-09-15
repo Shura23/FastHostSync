@@ -79,6 +79,11 @@ platforms:
   - ipv6check-udp.steamserver.net
   - ext2-tyo3.steamserver.net
   - ext4-sgp1.steamserver.net
+  - ext2-sea1.steamserver.net
+  - ext2-dfw1.steamserver.net
+  - ext1-lax1.steamserver.net
+  - ext2-sgp1.steamserver.net
+  - ext1-tyo3.steamserver.net
   - ext3-sgp1.steamserver.net
   - ext4-tyo3.steamserver.net
   - ext1-hkg1.steamserver.net
@@ -100,6 +105,8 @@ platforms:
   - cdn.akamai.steamstatic.com
   - steam-chat.com
   - community.akamai.steamstatic.com
+  - shared.steamstatic.com
+  - clan.steamstatic.com
   - cdn.steamcommunity.com
   - cdn.steampowered.com
   - cdn.store.steampowered.com
