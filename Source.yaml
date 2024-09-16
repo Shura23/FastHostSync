@@ -228,6 +228,7 @@ platforms:
   - tracking.epicgames.com
 - - google
   - update.googleapis.com
+  - chrome.google.com
   - translate-pa.googleapis.com
   - translate.google.com
   - firebaseinstallations.googleapis.com
