@@ -4,7 +4,6 @@ ua: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/1
 platforms:
 - - github
   - alive.github.com
-  - www.pixiv.net
   - docs.github.com
   - live.github.com
   - uploads.github.com
