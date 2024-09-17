@@ -5,29 +5,29 @@
 104.86.83.41			steamgames.com
 23.215.0.145			clientconfig.akamai.steamstatic.com
 103.28.54.162			ext3-hkg1.steamserver.net
-23.53.11.246			test.steampowered.com
-47.252.96.19			steamcloud-hkg.oss-accelerate.aliyuncs.com
-184.85.248.128			ipv6check-udp.steamserver.net
-23.53.11.242			steamuserimages-a.akamaihd.net
-113.16.211.3			steamuserimages-a.xxghh.biz
-106.42.232.174			dl.steam.clngaa.com
+104.96.221.83			test.steampowered.com
+8.208.41.13			steamcloud-hkg.oss-accelerate.aliyuncs.com
+####			ipv6check-udp.steamserver.net
+104.96.221.83			steamuserimages-a.akamaihd.net
+180.163.132.3			steamuserimages-a.xxghh.biz
+219.152.87.114			dl.steam.clngaa.com
 23.49.176.119			steamcommunity.com
-23.53.11.248			steamcommunity-a.akamaihd.net
+104.96.221.66			steamcommunity-a.akamaihd.net
 23.50.124.114			store.steampowered.com
 23.49.176.119			api.steampowered.com
 198.185.159.144			steampoweredmedia.com
 23.49.176.119			help.steampowered.com
-23.53.11.237			store.akamai.steamstatic.com
+104.96.221.83			store.akamai.steamstatic.com
 23.215.0.136			steamcdn-a.akamaihd.net
-23.53.11.237			steamstore-a.akamaihd.net
+104.96.221.83			steamstore-a.akamaihd.net
 104.86.83.41			steam-chat.com
-23.53.11.248			community.akamai.steamstatic.com
-23.53.11.250			shared.steamstatic.com
-23.53.11.231			clan.steamstatic.com
-23.53.11.228			cdn.steamcommunity.com
+104.96.221.51			community.akamai.steamstatic.com
+104.96.221.74			shared.steamstatic.com
+104.96.221.73			clan.steamstatic.com
+104.96.221.66			cdn.steamcommunity.com
 23.215.0.136			cdn.steampowered.com
-23.53.11.237			cdn.store.steampowered.com
-23.53.11.246			media.steampowered.com
+104.96.221.83			cdn.store.steampowered.com
+104.96.221.65			media.steampowered.com
 #steam End
-# Last Update Time : 2024-09-17 17:55:55 
+# Last Update Time : 2024-09-17 18:10:16 
 
