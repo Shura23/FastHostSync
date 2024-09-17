@@ -325,6 +325,8 @@ platforms:
   - charts-images.scdn.co
   - seeded-session-images.scdn.co
   - download.scdn.co
+- - ubuntu
+  - releases.ubuntu.com
   
   
   
