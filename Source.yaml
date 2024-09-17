@@ -144,6 +144,7 @@ platforms:
   - download.tails.net
 - - Encrypt DNS
   - dns.oszx.co
+  - mozilla.cloudflare-dns.com
   - 0ms.dev
   - anycast.dns.nextdns.io
   - dns.cloudflare.com
@@ -325,8 +326,7 @@ platforms:
   - charts-images.scdn.co
   - seeded-session-images.scdn.co
   - download.scdn.co
-- - ubuntu
-  - releases.ubuntu.com
+
   
   
   
