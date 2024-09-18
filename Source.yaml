@@ -326,6 +326,10 @@ platforms:
   - charts-images.scdn.co
   - seeded-session-images.scdn.co
   - download.scdn.co
+- - onedrive
+  - onedrive.live.com
+  - skyapi.onedrive.live.com
+  - api.onedrive.live.com
 
   
   
