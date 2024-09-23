@@ -17,13 +17,20 @@ win + R 后执行 `shell:startup`
 ### 配置SwitchHosts实现自动更新  
 可选的URL有:
 如果访问不到GitHub可以尝试将`github.com`替换为`hub.fastgit.xyz`(国内镜像)
-1. ALL: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts`  
-2. Steam: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_steam`  
-3. github: `https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts_github`    
-`镜像地址:`
-4. All: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts`  
-5. Steam: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts_steam`  
-6. github: 
+1. ALL: `https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts`  
+2. Steam: `https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_steam`  
+3. github: `https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_github`
+4. gitlab: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_gitlab'
+5. EPIC: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_EPIC'
+6. Apkpure: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_Apkpure'
+7. TailsOS：'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_Tails%20OS'
+8. Tor Browser: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_Tor%20browser'
+9. docker: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_docker'
+10. onedrive: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_onedrive'
+11. iwara: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_iwara'
+12. spotify: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_spotify'
+13. xbox: 'https://raw.githubusercontent.com/xiulou23/FastHostSync/refs/heads/main/Hosts_xbox'
+
 
 ![](/img/3.png)
 
