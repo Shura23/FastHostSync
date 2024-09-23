@@ -39,192 +39,192 @@ win + R 后执行 `shell:startup`
 ```
 #github Start
 140.82.114.25			alive.github.com
-185.199.108.154			docs.github.com
-140.82.113.26			live.github.com
-140.82.112.14			uploads.github.com
+185.199.110.154			docs.github.com
+140.82.114.26			live.github.com
+140.82.116.14			uploads.github.com
 185.199.108.153			training.github.com
-185.199.108.133			objects.githubusercontent.com
-185.199.109.153			metamask.github.io
-185.199.109.153			pages.github.com
+185.199.109.133			objects.githubusercontent.com
+185.199.108.153			metamask.github.io
+185.199.108.153			pages.github.com
 13.107.42.16			pipelines.actions.githubusercontent.com
 185.199.110.153			customer-stories-feed.github.com
-185.199.110.154			github.githubassets.com
-140.82.112.21			central.github.com
+185.199.109.154			github.githubassets.com
+140.82.114.22			central.github.com
 140.82.113.21			viewscreen.githubusercontent.com
-185.199.111.133			desktop.githubusercontent.com
-185.199.111.133			raw.github.com
-185.199.109.133			repository-images.githubusercontent.com
-185.199.110.153			assets-cdn.github.com
-185.199.109.133			github.map.fastly.net
-16.15.193.152			github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.222.1			github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.201.73			github-production-user-asset-6210df.s3.amazonaws.com
+185.199.110.133			desktop.githubusercontent.com
+185.199.109.133			raw.github.com
+185.199.111.133			repository-images.githubusercontent.com
+185.199.109.153			assets-cdn.github.com
+185.199.111.133			github.map.fastly.net
+3.5.28.202			github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.198.89			github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.204.41			github-production-user-asset-6210df.s3.amazonaws.com
 185.199.111.133			camo.githubusercontent.com
-185.199.110.133			github.map.fastly.net
-151.101.129.194			github.global.ssl.fastly.net
+185.199.108.133			github.map.fastly.net
+151.101.65.194			github.global.ssl.fastly.net
 185.199.109.133			gist.githubusercontent.com
-140.82.113.30			githubapp.com
+140.82.114.30			githubapp.com
 192.0.66.2			github.blog
-54.231.197.33			github-cloud.s3.amazonaws.com
+52.217.198.89			github-cloud.s3.amazonaws.com
 185.199.108.153			githubstatus.com
 185.199.110.153			guides.github.com
 140.82.112.18			help.github.com
-140.82.114.18			github.community
-140.82.113.4			gist.github.com
+140.82.112.17			github.community
+140.82.116.4			gist.github.com
 185.199.111.153			github.io
-140.82.114.3			github.com
+140.82.116.4			github.com
 192.0.66.2			github.blog
-140.82.113.6			api.github.com
-185.199.110.133			raw.githubusercontent.com
-185.199.108.153			archiveprogram.github.com
-185.199.108.153			assets-cdn.github.com
-185.199.110.133			user-images.githubusercontent.com
-185.199.109.133			favicons.githubusercontent.com
-185.199.111.133			avatars5.githubusercontent.com
-185.199.111.133			avatars4.githubusercontent.com
-185.199.108.133			avatars3.githubusercontent.com
-185.199.108.133			avatars2.githubusercontent.com
-185.199.109.133			avatars6.githubusercontent.com
+140.82.116.5			api.github.com
+185.199.109.133			raw.githubusercontent.com
+185.199.111.153			archiveprogram.github.com
+185.199.109.153			assets-cdn.github.com
+185.199.111.133			user-images.githubusercontent.com
+185.199.108.133			favicons.githubusercontent.com
+185.199.110.133			avatars5.githubusercontent.com
+185.199.108.133			avatars4.githubusercontent.com
+185.199.110.133			avatars3.githubusercontent.com
+185.199.111.133			avatars2.githubusercontent.com
+185.199.110.133			avatars6.githubusercontent.com
 185.199.108.133			avatars7.githubusercontent.com
-185.199.109.133			avatars8.githubusercontent.com
-185.199.109.133			avatars1.githubusercontent.com
-185.199.109.133			avatars0.githubusercontent.com
-185.199.109.133			avatars.githubusercontent.com
-185.199.108.133			cloud.githubusercontent.com
-140.82.112.22			central.github.com
-140.82.112.9			codeload.github.com
-54.231.197.33			github-cloud.s3.amazonaws.com
-52.216.211.249			github-com.s3.amazonaws.com
-3.5.30.239			github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.29.119			github-production-user-asset-6210df.s3.amazonaws.com
-52.216.222.1			github-production-repository-file-5c1aeb.s3.amazonaws.com
+185.199.111.133			avatars8.githubusercontent.com
+185.199.111.133			avatars1.githubusercontent.com
+185.199.111.133			avatars0.githubusercontent.com
+185.199.110.133			avatars.githubusercontent.com
+185.199.110.133			cloud.githubusercontent.com
+140.82.114.22			central.github.com
+140.82.116.9			codeload.github.com
+3.5.31.107			github-cloud.s3.amazonaws.com
+52.217.200.89			github-com.s3.amazonaws.com
+3.5.25.92			github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.31.107			github-production-user-asset-6210df.s3.amazonaws.com
+52.216.63.1			github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.110.153			githubstatus.com
 140.82.113.17			community.github.com
-52.224.38.193			github.dev
+20.99.227.183			github.dev
 185.199.111.133			media.githubusercontent.com
 #github End
-# Last Update Time : 2024-09-23 17:41:01 
+# Last Update Time : 2024-09-23 17:47:35 
 
 #steam Start
-23.49.176.119			steamcommunity.com
-104.86.83.41			www.steamcommunity.com
-104.86.83.41			steampowered.com
-104.86.83.41			steamgames.com
-23.62.6.171			clientconfig.akamai.steamstatic.com
+104.68.104.163			steamcommunity.com
+104.68.112.116			www.steamcommunity.com
+104.68.112.116			steampowered.com
+104.68.112.116			steamgames.com
+23.67.33.199			clientconfig.akamai.steamstatic.com
 103.28.54.162			ext3-hkg1.steamserver.net
-23.218.218.164			test.steampowered.com
-47.252.96.19			steamcloud-hkg.oss-accelerate.aliyuncs.com
-184.85.248.128			ipv6check-udp.steamserver.net
-23.218.218.147			steamuserimages-a.akamaihd.net
-183.61.243.1			steamuserimages-a.xxghh.biz
+23.50.8.58			test.steampowered.com
+47.88.36.142			steamcloud-hkg.oss-accelerate.aliyuncs.com
+84.53.139.129			ipv6check-udp.steamserver.net
+23.50.8.104			steamuserimages-a.akamaihd.net
+118.112.233.9			steamuserimages-a.xxghh.biz
 106.42.232.104			dl.steam.clngaa.com
-23.49.176.119			steamcommunity.com
-23.218.218.137			steamcommunity-a.akamaihd.net
-23.50.124.114			store.steampowered.com
-23.49.176.119			api.steampowered.com
-198.49.23.145			steampoweredmedia.com
-23.49.176.119			help.steampowered.com
-23.218.218.185			store.akamai.steamstatic.com
-23.62.6.192			steamcdn-a.akamaihd.net
-23.218.218.135			steamstore-a.akamaihd.net
-104.86.83.41			steam-chat.com
-23.218.218.173			community.akamai.steamstatic.com
-23.218.218.175			shared.steamstatic.com
-23.218.218.171			clan.steamstatic.com
-23.218.218.137			cdn.steamcommunity.com
-23.62.6.171			cdn.steampowered.com
-23.218.218.185			cdn.store.steampowered.com
-23.218.218.153			media.steampowered.com
+104.68.104.163			steamcommunity.com
+23.50.8.72			steamcommunity-a.akamaihd.net
+104.99.49.179			store.steampowered.com
+104.68.104.163			api.steampowered.com
+198.185.159.144			steampoweredmedia.com
+104.68.104.163			help.steampowered.com
+23.50.8.81			store.akamai.steamstatic.com
+23.67.33.202			steamcdn-a.akamaihd.net
+23.50.8.91			steamstore-a.akamaihd.net
+104.68.112.116			steam-chat.com
+23.50.8.72			community.akamai.steamstatic.com
+23.50.8.50			shared.steamstatic.com
+23.50.8.91			clan.steamstatic.com
+23.50.8.72			cdn.steamcommunity.com
+23.67.33.218			cdn.steampowered.com
+23.50.8.91			cdn.store.steampowered.com
+23.50.8.50			media.steampowered.com
 #steam End
-# Last Update Time : 2024-09-23 17:41:03 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #Ubisoft_download Start
-23.62.160.240			static3.cdn.Ubi.com
-23.62.165.107			static2.cdn.Ubi.com
-2.16.40.64			static1.cdn.Ubi.com
+23.44.73.70			static3.cdn.Ubi.com
+104.107.105.193			static2.cdn.Ubi.com
+84.53.139.65			static1.cdn.Ubi.com
 #Ubisoft_download End
-# Last Update Time : 2024-09-23 17:41:03 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #docker Start
-141.193.213.21			docker.com
-34.226.69.105			auth.docker.io
-44.219.3.189			hub.docker.com
-18.160.10.27			docs.docker.com
-104.19.168.24			login.docker.com
+141.193.213.20			docker.com
+54.196.99.49			auth.docker.io
+3.224.227.198			hub.docker.com
+18.155.192.49			docs.docker.com
+104.19.167.24			login.docker.com
 3.219.239.5			registry.hub.docker.com
 3.224.227.198			docker.io
-34.226.69.105			registry-1.docker.io
-54.196.99.49			index.docker.io
+3.219.239.5			registry-1.docker.io
+34.226.69.105			index.docker.io
 #docker End
-# Last Update Time : 2024-09-23 17:41:04 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #Brave browser Start
-108.156.152.92			brave.com
-151.101.65.32			laptop-updates.brave.com
+18.164.174.129			brave.com
+151.101.1.32			laptop-updates.brave.com
 #Brave browser End
-# Last Update Time : 2024-09-23 17:41:04 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #Tor browser Start
 204.8.99.146			www.torproject.org
-95.216.163.36			community.torproject.org
-204.8.99.144			blog.torproject.org
+116.202.120.166			community.torproject.org
+204.8.99.146			blog.torproject.org
 #Tor browser End
-# Last Update Time : 2024-09-23 17:41:04 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #Tails OS Start
-204.13.164.63			tails.net
+94.142.244.34			tails.net
 204.13.164.63			download.tails.net
 #Tails OS End
-# Last Update Time : 2024-09-23 17:41:04 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #Encrypt DNS Start
 217.160.156.119			dns.oszx.co
 162.159.61.4			mozilla.cloudflare-dns.com
 172.67.153.195			0ms.dev
-45.90.28.0			anycast.dns.nextdns.io
-104.16.132.229			dns.cloudflare.com
+45.90.30.0			anycast.dns.nextdns.io
+104.16.133.229			dns.cloudflare.com
 146.112.41.2			doh.opendns.com
 158.64.1.29			kaitain.restena.lu
 137.66.7.89			max.rethinkdns.com
 76.76.2.11			freedns.controld.com
 149.248.217.117			dns.dnswarden.com
 #Encrypt DNS End
-# Last Update Time : 2024-09-23 17:41:05 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #EA Start
-23.39.184.174			www.ea.com
-23.218.216.141			origin-a.akamaihd.net
-23.62.165.14			pl.ea.com
-23.13.164.104			media.contentapi.ea.com
-23.62.165.14			nds-network-nav.ea.com
+23.37.16.177			www.ea.com
+23.192.228.147			origin-a.akamaihd.net
+104.107.105.72			pl.ea.com
+23.196.127.170			media.contentapi.ea.com
+104.107.105.72			nds-network-nav.ea.com
 #EA End
-# Last Update Time : 2024-09-23 17:41:05 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #gitlab Start
 172.65.251.78			gitlab.com
 172.65.251.78			www.gitlab.com
-104.17.71.206			page.gitlab.com
+104.17.72.206			page.gitlab.com
 172.64.148.245			packages.gitlab.com
 104.18.248.37			support.gitlab.com
-172.64.148.245			customers.gitlab.com
+104.18.39.11			customers.gitlab.com
 172.65.216.50			staging.gitlab.com
 216.198.53.1			federal-support.gitlab.com
 35.227.35.254			registry.gitlab.com
 172.64.35.157			evelup.gitlab.com
-104.18.39.11			chef.gitlab.com
+172.64.148.245			chef.gitlab.com
 #gitlab End
-# Last Update Time : 2024-09-23 17:41:05 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #debian Start
-151.101.18.132			deb.debian.org
+151.101.198.132			deb.debian.org
 #debian End
-# Last Update Time : 2024-09-23 17:41:05 
+# Last Update Time : 2024-09-23 17:47:37 
 
 #iwara Start
-104.26.12.96			iwara.tv
+104.26.13.96			iwara.tv
 62.210.173.23			himeko.iwara.tv
 104.26.13.96			i.iwara.tv
-104.26.13.96			www.iwara.tv
+172.67.71.154			www.iwara.tv
 66.165.237.254			hime.iwara.tv
 163.172.40.145			aku.iwara.tv
 163.172.42.175			sukone.iwara.tv
@@ -264,109 +264,109 @@ win + R 后执行 `shell:startup`
 163.172.80.31			uni.iwara.tv
 151.115.90.5			hanya.iwara.tv
 #iwara End
-# Last Update Time : 2024-09-23 17:41:06 
+# Last Update Time : 2024-09-23 17:47:38 
 
 #EPIC Start
-3.167.88.23			download2.epicgames.com
-3.162.103.80			download3.epicgames.com
-99.84.191.45			download4.epicgames.com
-18.160.18.33			download.epicgames.com
-23.218.216.149			epicgames-download1.akamaized.net
-18.165.83.38			epic-social-social-modules-prod.ol.epicgames.com
-34.199.48.160			eulatracking-public-service-prod06.ol.epicgames.com
-3.162.112.37			media-cdn.epicgames.com
-23.62.161.36			static-assets-prod.epicgames.com
-23.49.189.95			store-content.ak.epicgames.com
+108.138.246.76			download2.epicgames.com
+18.155.192.24			download3.epicgames.com
+18.155.202.55			download4.epicgames.com
+18.155.202.3			download.epicgames.com
+23.192.228.150			epicgames-download1.akamaized.net
+3.168.86.8			epic-social-social-modules-prod.ol.epicgames.com
+44.214.210.153			eulatracking-public-service-prod06.ol.epicgames.com
+18.155.192.10			media-cdn.epicgames.com
+23.44.73.139			static-assets-prod.epicgames.com
+23.203.209.213			store-content.ak.epicgames.com
 35.173.167.14			tracking.epicgames.com
 #EPIC End
-# Last Update Time : 2024-09-23 17:41:07 
+# Last Update Time : 2024-09-23 17:47:38 
 
 #google Start
-142.251.179.94			update.googleapis.com
-142.251.163.95			translate-pa.googleapis.com
-64.233.180.139			translate.google.com
-142.250.31.95			firebaseinstallations.googleapis.com
-64.233.180.95			infinitedata-pa.googleapis.com
-142.251.163.95			geller-pa.googleapis.com
-209.85.202.188			alt1.mobile-gtalk.l.google.com
-64.233.184.188			alt2.mobile-gtalk4.l.google.com
-142.250.27.188			alt3.mobile-gtalk.l.google.com
-142.250.153.188			alt4.mobile-gtalk4.l.google.com
-142.251.9.188			alt5.mobile-gtalk.l.google.com
-142.250.150.188			alt6.mobile-gtalk4.l.google.com
-74.125.200.188			alt7.mobile-gtalk.l.google.com
-142.250.157.188			alt8.mobile-gtalk4.l.google.com
-172.253.115.95			translate.googleapis.com
-64.233.180.138			www3.l.google.com
-172.253.122.94			services.googleapis.cn
-142.251.179.100			play-fe.googleapis.com
-142.251.179.119			play-lh.googleusercontent.com
+142.250.189.163			update.googleapis.com
+142.251.214.138			translate-pa.googleapis.com
+142.251.46.206			translate.google.com
+142.251.46.234			firebaseinstallations.googleapis.com
+142.251.32.42			infinitedata-pa.googleapis.com
+142.250.189.170			geller-pa.googleapis.com
+108.177.104.188			alt1.mobile-gtalk.l.google.com
+142.250.152.188			alt2.mobile-gtalk4.l.google.com
+172.253.113.188			alt3.mobile-gtalk.l.google.com
+173.194.77.188			alt4.mobile-gtalk4.l.google.com
+173.194.219.188			alt5.mobile-gtalk.l.google.com
+142.250.112.188			alt6.mobile-gtalk4.l.google.com
+172.217.197.188			alt7.mobile-gtalk.l.google.com
+108.177.12.188			alt8.mobile-gtalk4.l.google.com
+142.250.191.74			translate.googleapis.com
+142.251.46.206			www3.l.google.com
+142.250.191.67			services.googleapis.cn
+142.250.72.206			play-fe.googleapis.com
+142.251.46.246			play-lh.googleusercontent.com
 216.239.36.223			play.googleapis.com
-209.85.202.188			alt1-mtalk.google.com
-64.233.184.188			alt2-mtalk.google.com
-142.250.27.188			alt3-mtalk.google.com
-142.250.153.188			alt4-mtalk.google.com
-142.251.9.188			alt5-mtalk.google.com
-142.250.150.188			alt6-mtalk.google.com
-74.125.200.188			alt7-mtalk.google.com
-142.250.157.188			alt8-mtalk.google.com
-172.253.115.95			content-autofill.googleapis.com
-64.233.180.94			googlecn-lopri.l.google.com
-172.253.63.94			www.googleapis.cn
+108.177.104.188			alt1-mtalk.google.com
+142.250.152.188			alt2-mtalk.google.com
+172.253.113.188			alt3-mtalk.google.com
+173.194.77.188			alt4-mtalk.google.com
+173.194.219.188			alt5-mtalk.google.com
+142.250.112.188			alt6-mtalk.google.com
+172.217.197.188			alt7-mtalk.google.com
+108.177.12.188			alt8-mtalk.google.com
+142.250.189.202			content-autofill.googleapis.com
+142.250.191.67			googlecn-lopri.l.google.com
+142.251.46.163			www.googleapis.cn
 #google End
-# Last Update Time : 2024-09-23 17:41:07 
+# Last Update Time : 2024-09-23 17:47:39 
 
 #xbox Start
-23.62.164.9			gameclipscontent-d2009.xboxlive.com
-23.218.218.145			images-eds.xboxlive.com
-23.215.0.228			xbl-smooth.xboxlive.com
-23.62.164.9			titlehub.xboxlive.com
-23.218.218.184			compass.xboxlive.com
-23.62.164.9			xnotify.xboxlive.com
+104.107.104.10			gameclipscontent-d2009.xboxlive.com
+104.123.71.97			images-eds.xboxlive.com
+23.50.8.11			xbl-smooth.xboxlive.com
+104.107.104.10			titlehub.xboxlive.com
+104.123.71.96			compass.xboxlive.com
+104.107.104.10			xnotify.xboxlive.com
 52.165.145.141			activityhub.xboxlive.com
-23.62.164.9			images-eds-ssl.xboxlive.com
-199.46.35.122			rta.xboxlive.com
-23.50.124.10			peoplehub.xboxlive.com
-20.114.21.137			editorial.xboxlive.com
-23.205.104.53			assets1.xboxlive.cn
-23.205.104.9			assets2.xboxlive.cn
-20.112.250.133			xboxlive.com
-13.107.246.40			da.xboxservices.com
-20.109.105.194			device.auth.xboxlive.com
+104.107.104.10			images-eds-ssl.xboxlive.com
+199.46.35.123			rta.xboxlive.com
+104.99.48.9			peoplehub.xboxlive.com
+52.242.98.79			editorial.xboxlive.com
+23.56.3.67			assets1.xboxlive.cn
+23.56.3.34			assets2.xboxlive.cn
+20.231.239.246			xboxlive.com
+13.107.246.69			da.xboxservices.com
+52.156.99.28			device.auth.xboxlive.com
 #xbox End
-# Last Update Time : 2024-09-23 17:41:08 
+# Last Update Time : 2024-09-23 17:47:39 
 
 #Apkpure Start
 104.22.9.141			download.pureapk.com
 104.22.8.141			api.pureapk.com
 104.22.42.111			t.apkpure.net
 104.22.8.141			tapi.pureapk.com
-104.22.9.141			rdelivery.pureapk.com
-104.26.13.136			tapi.upload.app
+104.22.8.141			rdelivery.pureapk.com
+172.67.72.204			tapi.upload.app
 45.33.36.159			api.sve.cc
 #Apkpure End
-# Last Update Time : 2024-09-23 17:41:08 
+# Last Update Time : 2024-09-23 17:47:39 
 
 #Microsoft Start
-40.126.28.11			login.microsoftonline.com
-20.242.39.171			fe3cr.delivery.mp.microsoft.com
-40.78.107.252			fe2cr.update.microsoft.com
-4.175.87.197			slscr.update.microsoft.com
-199.232.210.172			dl.delivery.mp.microsoft.com
-4.249.200.148			nav-edge.smartscreen.microsoft.com
-20.190.151.38			graph.microsoft.com
-23.62.166.208			go.microsoft.com
-13.107.246.40			static.edge.microsoftapp.net
+20.190.151.132			login.microsoftonline.com
+13.95.31.18			fe3cr.delivery.mp.microsoft.com
+20.163.45.183			fe2cr.update.microsoft.com
+13.85.23.86			slscr.update.microsoft.com
+208.111.153.0			dl.delivery.mp.microsoft.com
+52.159.108.190			nav-edge.smartscreen.microsoft.com
+20.190.132.105			graph.microsoft.com
+104.107.106.121			go.microsoft.com
+13.107.246.69			static.edge.microsoftapp.net
 204.79.197.203			oneocsp.microsoft.com
-104.40.82.182			nf.smartscreen.microsoft.com
-20.253.207.205			wdcp.microsoft.com
-52.109.0.91			officeclient.microsoft.com
-20.42.7.128			api-edge.cognitive.microsofttranslator.com
-204.79.197.239			edge.microsoft.com
-23.62.165.205			storeedgefd.dsx.mp.microsoft.com
+4.153.57.10			nf.smartscreen.microsoft.com
+20.253.175.208			wdcp.microsoft.com
+52.109.8.89			officeclient.microsoft.com
+40.82.255.97			api-edge.cognitive.microsofttranslator.com
+13.107.21.239			edge.microsoft.com
+104.107.106.66			storeedgefd.dsx.mp.microsoft.com
 152.195.19.97			msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 #Microsoft End
-# Last Update Time : 2024-09-23 17:41:09 
+# Last Update Time : 2024-09-23 17:47:40 
 
 #spotify Start
 104.199.241.202			ap-gae2.spotify.com
@@ -377,32 +377,32 @@ win + R 后执行 `shell:startup`
 35.186.224.24			spclient.wg.spotify.com
 35.186.224.24			wg.spotify.com
 35.186.224.22			gae-spclient.spotify.com
-23.205.105.19			audio4-ak-spotify-com.akamaized.net
-23.46.150.73			heads4-ak-spotify-com.akamaized.net
-23.205.105.55			audio-ak-spotify-com.akamaized.net
-23.205.105.7			audio-akp-quic-spotify-com.akamaized.net
+23.212.62.69			audio4-ak-spotify-com.akamaized.net
+23.212.62.85			heads4-ak-spotify-com.akamaized.net
+23.212.62.69			audio-ak-spotify-com.akamaized.net
+23.212.62.86			audio-akp-quic-spotify-com.akamaized.net
 #spotify End
-# Last Update Time : 2024-09-23 17:41:09 
+# Last Update Time : 2024-09-23 17:47:40 
 
 #scdn Start
-199.232.214.248			audio-fa.scdn.co
-23.205.105.34			misc.scdn.co
-23.205.105.34			i.scdn.co
+199.232.210.248			audio-fa.scdn.co
+23.212.62.93			misc.scdn.co
+23.212.62.93			i.scdn.co
 199.232.210.248			newjams-images.scdn.co
 199.232.210.248			dailymix-images.scdn.co
 199.232.210.248			thisis-images.scdn.co
-199.232.210.248			charts-images.scdn.co
-199.232.210.248			seeded-session-images.scdn.co
-199.232.214.248			download.scdn.co
+199.232.214.248			charts-images.scdn.co
+199.232.214.248			seeded-session-images.scdn.co
+199.232.210.248			download.scdn.co
 #scdn End
-# Last Update Time : 2024-09-23 17:41:10 
+# Last Update Time : 2024-09-23 17:47:40 
 
 #onedrive Start
-13.107.137.11			onedrive.live.com
+13.107.139.11			onedrive.live.com
 13.107.42.12			skyapi.onedrive.live.com
-23.13.166.251			api.onedrive.live.com
+104.100.52.50			api.onedrive.live.com
 #onedrive End
-# Last Update Time : 2024-09-23 17:41:10 
+# Last Update Time : 2024-09-23 17:47:41 
 
 #Github: https://github.com/xiulou23/FastHostSync
 
