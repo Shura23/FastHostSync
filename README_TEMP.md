@@ -1,9 +1,9 @@
-# SteamHostSync
-第一次用go写的项目，写的比较烂，欢迎大佬指出错误。
+# FastHostSync
+
 
 ## 1. 实现
 对Hosts进行一个新的更  
-解决Steam、github访问问题
+解决Steam、github Apkpure 、docker访问问题
 
 ## 2. 使用方法
 ## 自动方法(使用工具)
@@ -23,7 +23,7 @@ win + R 后执行 `shell:startup`
 `镜像地址:`
 4. All: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts`  
 5. Steam: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts_steam`  
-6. github: `https://raw.sevencdn.com/Clov614/SteamHostSync/main/Hosts_github`  
+6. github: 
 
 ![](/img/3.png)
 
