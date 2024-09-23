@@ -2,8 +2,8 @@
 
 
 ## 1. 实现
-对Hosts进行一个新的更  
-解决Steam、github Apkpure 、docker访问问题
+对Hosts进行更新  
+解决Steam、github、Apkpure 、docker、EPIC、EA等访问问题
 
 ## 2. 使用方法
 ## 自动方法(使用工具)
