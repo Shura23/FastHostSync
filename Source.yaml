@@ -78,28 +78,13 @@ platforms:
   - test.steampowered.com
   - steamcloud-hkg.oss-accelerate.aliyuncs.com
   - ipv6check-udp.steamserver.net
-  #- ext2-tyo3.steamserver.net
-  #- ext4-sgp1.steamserver.net
-  #- ext2-sea1.steamserver.net
-  #- ext2-dfw1.steamserver.net
-  #- ext1-lax1.steamserver.net
-  #- ext2-sgp1.steamserver.net
-  #- ext1-tyo3.steamserver.net
-  #- ext3-sgp1.steamserver.net
-  #- ext4-tyo3.steamserver.net
-  #- ext6-hkg1.steamserver.net
-  #- ext3-tyo3.steamserver.net
-  #- ext1-tyo3.steamserver.net
-#  - cdn-akamai-steamstatic.xxghh.biz
+ 
+
   - steamuserimages-a.akamaihd.net
   - steamuserimages-a.xxghh.biz
-  #- ext1-hkg1.steamserver.net
-  #- ext2-hkg1.steamserver.net
-  #- ext7-hkg1.steamserver.net
-  #- ext2-tyo3.steamserver.net
-  #- ipv6check-http.steamserver.net
+
   - dl.steam.clngaa.com
-#  - cdn-ws.content.steamchina.com
+
   - steamcommunity.com
   - steamcommunity-a.akamaihd.net
   - store.steampowered.com
@@ -109,7 +94,7 @@ platforms:
   - store.akamai.steamstatic.com
   - steamcdn-a.akamaihd.net
   - steamstore-a.akamaihd.net
- # - cdn.akamai.steamstatic.com
+
   - steam-chat.com
   - community.akamai.steamstatic.com
   - shared.steamstatic.com
