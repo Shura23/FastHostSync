@@ -7,10 +7,10 @@
 35.186.224.24			spclient.wg.spotify.com
 35.186.224.24			wg.spotify.com
 35.186.224.22			gae-spclient.spotify.com
-23.67.33.77			audio4-ak-spotify-com.akamaized.net
-23.212.62.88			heads4-ak-spotify-com.akamaized.net
-23.67.33.77			audio-ak-spotify-com.akamaized.net
-23.67.33.96			audio-akp-quic-spotify-com.akamaized.net
+23.205.105.36			audio4-ak-spotify-com.akamaized.net
+23.46.150.72			heads4-ak-spotify-com.akamaized.net
+23.205.105.57			audio-ak-spotify-com.akamaized.net
+23.205.105.45			audio-akp-quic-spotify-com.akamaized.net
 #spotify End
-# Last Update Time : 2024-10-25 01:38:45 
+# Last Update Time : 2024-10-25 01:51:05 
 
