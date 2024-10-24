@@ -1,21 +1,21 @@
 #Microsoft Start
-20.190.190.129			login.microsoftonline.com
-40.69.42.241			fe3cr.delivery.mp.microsoft.com
-40.78.107.241			fe2cr.update.microsoft.com
-20.109.210.53			slscr.update.microsoft.com
-217.20.49.37			dl.delivery.mp.microsoft.com
-52.159.108.190			nav-edge.smartscreen.microsoft.com
-20.190.132.42			graph.microsoft.com
-23.44.73.221			go.microsoft.com
-13.107.246.69			static.edge.microsoftapp.net
+40.126.62.130			login.microsoftonline.com
+52.165.164.15			fe3cr.delivery.mp.microsoft.com
+4.154.131.239			fe2cr.update.microsoft.com
+4.175.87.197			slscr.update.microsoft.com
+199.232.214.172			dl.delivery.mp.microsoft.com
+52.228.161.161			nav-edge.smartscreen.microsoft.com
+20.190.151.38			graph.microsoft.com
+23.221.241.211			go.microsoft.com
+13.107.246.40			static.edge.microsoftapp.net
 204.79.197.203			oneocsp.microsoft.com
-4.150.155.223			nf.smartscreen.microsoft.com
-20.253.207.205			wdcp.microsoft.com
-52.109.0.91			officeclient.microsoft.com
-40.82.255.97			api-edge.cognitive.microsofttranslator.com
-204.79.197.239			edge.microsoft.com
-23.44.74.104			storeedgefd.dsx.mp.microsoft.com
+52.159.108.190			nf.smartscreen.microsoft.com
+4.236.248.221			wdcp.microsoft.com
+52.109.8.89			officeclient.microsoft.com
+20.42.7.128			api-edge.cognitive.microsofttranslator.com
+13.107.21.239			edge.microsoft.com
+23.221.242.93			storeedgefd.dsx.mp.microsoft.com
 152.195.19.97			msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
 #Microsoft End
-# Last Update Time : 2024-10-24 07:49:44 
+# Last Update Time : 2024-10-24 08:43:14 
 
