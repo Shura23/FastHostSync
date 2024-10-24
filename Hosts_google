@@ -1,10 +1,10 @@
 #google Start
-142.251.167.94			update.googleapis.com
-172.253.63.95			translate-pa.googleapis.com
-142.250.31.113			translate.google.com
-64.233.180.95			firebaseinstallations.googleapis.com
-142.251.167.95			infinitedata-pa.googleapis.com
-142.250.31.95			geller-pa.googleapis.com
+142.251.179.94			update.googleapis.com
+172.253.122.95			translate-pa.googleapis.com
+172.253.63.113			translate.google.com
+172.253.62.95			firebaseinstallations.googleapis.com
+142.251.111.95			infinitedata-pa.googleapis.com
+172.253.115.95			geller-pa.googleapis.com
 209.85.202.188			alt1.mobile-gtalk.l.google.com
 64.233.184.188			alt2.mobile-gtalk4.l.google.com
 142.250.27.188			alt3.mobile-gtalk.l.google.com
@@ -16,9 +16,9 @@
 142.251.163.95			translate.googleapis.com
 172.253.115.100			www3.l.google.com
 172.253.62.94			services.googleapis.cn
-172.253.122.113			play-fe.googleapis.com
-142.251.167.119			play-lh.googleusercontent.com
-216.239.32.223			play.googleapis.com
+142.251.16.102			play-fe.googleapis.com
+64.233.180.119			play-lh.googleusercontent.com
+216.239.38.223			play.googleapis.com
 209.85.202.188			alt1-mtalk.google.com
 64.233.184.188			alt2-mtalk.google.com
 142.250.27.188			alt3-mtalk.google.com
@@ -28,8 +28,8 @@
 74.125.200.188			alt7-mtalk.google.com
 142.250.157.188			alt8-mtalk.google.com
 142.251.167.95			content-autofill.googleapis.com
-172.253.122.94			googlecn-lopri.l.google.com
-142.251.163.94			www.googleapis.cn
+172.253.62.94			googlecn-lopri.l.google.com
+172.253.115.94			www.googleapis.cn
 #google End
-# Last Update Time : 2024-10-24 18:38:53 
+# Last Update Time : 2024-10-24 18:51:06 
 
